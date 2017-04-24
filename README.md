@@ -40,11 +40,11 @@ end
 
 ## Key Features
 
-### + Create jobs anywhere
+### - Create jobs anywhere
 
-### + Store jobs data with Redis
+### - Store jobs data with Redis
 
-### + Pulls automatically from job queue on Redis server
+### - Pulls automatically from job queue on Redis server
 
 ## Example
 autogenics-client-project
